@@ -1,6 +1,6 @@
 #include "stdio.h"
 //Assignment-3 Ques14 Write a C program to find the sum of all even numbers and the sum of all odd numbers from 1 to n using a for loop and the modulus operator (%)
-void main()
+int main()
 {
     int i, num, oddSum = 0, evenSum = 0;
  
