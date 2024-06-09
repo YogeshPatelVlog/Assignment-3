@@ -1,7 +1,6 @@
 #include "stdio.h"
 //Assignment-3 Ques 12 Write a C program to find the greatest common divisor (GCD) of two numbers using a while loop and the modulus operator (%). Implement the Euclidean algorithm.
-// C program to find GCD of two numbers 
-#include <stdio.h> 
+// C program to find GCD of two numbers
 int gcd(int a, int b) {
 	if (a == 0) 
 		return b; 
